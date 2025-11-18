@@ -1,0 +1,36 @@
+[
+  {
+    "pool_address": "0x0bc2d9b4c3f599bd85789ec3649774076a7d9264",
+    "gauge_address": "",
+    "symbol": "FRAX/WETH",
+    "name": "UniV2 - FRAX/WETH",
+    "protocol": "Fraxswap",
+    "pairType": "uniswapv2",
+    "isStable": "",
+    "token0": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+    "token1": "0x4200000000000000000000000000000000000006",
+    "token0_symbol": "FRAX",
+    "token1_symbol": "WETH",
+    "token0_name": "Frax",
+    "token1_name": "Wrapped Ether",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "pool_address": "0x25e2222bc50e3b2dc945e1b9430f5498107fd3a5",
+    "gauge_address": "",
+    "symbol": "FRAX/FXS",
+    "name": "UniV2 - FRAX/FXS",
+    "protocol": "Fraxswap",
+    "pairType": "uniswapv2",
+    "isStable": "",
+    "token0": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+    "token1": "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
+    "token0_symbol": "FRAX",
+    "token1_symbol": "FXS",
+    "token0_name": "Frax",
+    "token1_name": "Frax Share",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  }
+]

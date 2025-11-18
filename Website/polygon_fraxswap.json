@@ -1,0 +1,53 @@
+[
+  {
+    "pool_address": "0x60ac6d228ffeeeff423879baa02091558e6480dc",
+    "gauge_address": "",
+    "symbol": "FXS/FRAX",
+    "name": "UniV2 - FXS/FRAX",
+    "protocol": "Fraxswap",
+    "pairType": "uniswapv2",
+    "isStable": "",
+    "token0": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "token1": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "token0_symbol": "FXS",
+    "token1_symbol": "FRAX",
+    "token0_name": "Frax Share",
+    "token1_name": "Frax",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "pool_address": "0x4f7267af6db7b284df74bea9e35402987d8c72a7",
+    "gauge_address": "",
+    "symbol": "WPOL/FRAX",
+    "name": "UniV2 - WPOL/FRAX",
+    "protocol": "Fraxswap",
+    "pairType": "uniswapv2",
+    "isStable": "",
+    "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "token1": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "token0_symbol": "WPOL",
+    "token1_symbol": "FRAX",
+    "token0_name": "Wrapped Polygon Ecosystem Token",
+    "token1_name": "Frax",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "pool_address": "0x1b238bdb3ae538fc8201aa1475bffc216e3b374f",
+    "gauge_address": "",
+    "symbol": "FRAX/IQ",
+    "name": "UniV2 - FRAX/IQ",
+    "protocol": "Fraxswap",
+    "pairType": "uniswapv2",
+    "isStable": "",
+    "token0": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "token1": "0xb9638272ad6998708de56bbc0a290a1de534a578",
+    "token0_symbol": "FRAX",
+    "token1_symbol": "IQ",
+    "token0_name": "Frax",
+    "token1_name": "Everipedia IQ (PoS)",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  }
+]
