@@ -5,7 +5,7 @@ A tool to find, claim, and withdraw forgotten or migrated liquidity positions (L
 ## Technology Stack
 
 - **Blockchain**: BNB Smart Chain + EVM-compatible chains  
-- **Smart Contracts**: Solidity ^0.8.20  
+- **Smart Contracts**: Solidity ^0.8.30  
 - **Frontend**: HTML + ethers.js 
 - **Development**: Remix, OpenZeppelin libraries  
 
