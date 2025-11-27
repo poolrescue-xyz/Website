@@ -1,0 +1,126 @@
+{
+  "42161": {
+    "name": "Arbitrum",
+    "rpc": "",
+    "adapter": "0x35c7477d8309ab3cfe869b863c939a47c651a6cd",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+      
+    ]
+  },
+  "42170": {
+    "name": "ArbitrumNova",
+    "rpc": "",
+    "adapter": "0xdfa523d19c244a9ac454e0f98b3dab6d53ac1cf1",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+     
+    ]
+  },
+  "43114": {
+    "name": "Avalanche",
+    "rpc": "",
+    "adapter": "0xa0cf7113fcf9a1edfe0e59e7856148705cc9e245",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "8453": {
+    "name": "Base",
+    "rpc": "",
+    "adapter": "0x02f573bffb6728bdd3eb94f4808579b726d010eb",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "56": {
+    "name": "BNB Chain",
+    "rpc": "",
+    "adapter": "0x7c2da50ced123c85bea6b74c58ffb2f6d5a8d8ed",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "1": {
+    "name": "Ethereum",
+    "rpc": "",
+    "adapter": "0xba8b97a6afbc624b460fe88707fa8e3892155dce",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "59144": {
+    "name": "Linea",
+    "rpc": "",
+    "adapter": "0x02f573bffb6728bdd3eb94f4808579b726d010eb",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "5000": {
+    "name": "Mantle",
+    "rpc": "",
+    "adapter": "0xa0cf7113fcf9a1edfe0e59e7856148705cc9e245",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "204": {
+    "name": "opBNB",
+    "rpc": "",
+    "adapter": "0xD8Ac51DFBBc457F72669B2BbDf438544B2431B65",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "10": {
+    "name": "Optimism",
+    "rpc": "",
+    "adapter": "0x1cf49a55dc5c07085b0b08130ee408a5fb94eb77",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "137": {
+    "name": "Polygon",
+    "rpc": "",
+    "adapter": "0xa7816b5a6ba74032d7608351d115534359a0c0b2",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  },
+  "534352": {
+    "name": "Scroll",
+    "rpc": "",
+    "adapter": "0xd4ef4d2c69af65f5c20b4b920cae71851066fed6",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+      {
+        "key": "asteria",
+        "label": "Asteria",
+        "json": "scroll_asteria.json"
+      }
+    ]
+  },
+  "324": {
+    "name": "zkSync",
+    "rpc": "",
+    "adapter": "0xe11c2689cde43382d7f595b77bbef73f3a1c124b",
+    "mc3": "0xca11bde05977b3631167028862be2a173976ca11",
+    "maxConc": 9,
+    "protocols": [
+    ]
+  }
+}
